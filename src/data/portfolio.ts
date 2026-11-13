@@ -1,7 +1,7 @@
 export const personalInfo = {
   name: "Dagm Woldekidan Messele",
   title: "Web Developer",
-  bio: "I'm a developer who bridges the gap between clean frontend design and solid backend code. Experienced in Next.js, Node.js, and modern databases, I focus on building efficient, user-centric web applications.",
+  bio: "I'm a Full-Stack Software Engineer building fast, reliable web applications. I focus on clean architecture, intuitive interfaces, and solving real-world problems with scalable software.",
   location: "Woldiya, North Wollo, Ethiopia",
   email: "dagmwoldakidan@gmail.com",
   phone: "+251985141664",
